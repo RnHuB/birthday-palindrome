@@ -5,6 +5,14 @@ body{
   box-sizing: border-box;
   text-align: center;
 }
+
+.header {
+  font-size: 2em;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 20px;
+  color: white;
+  font-weight: bolder;
+}
 h1{
   color: white;
 }
@@ -52,6 +60,12 @@ p{
   color: white;
   font-size: 18pt;
   text-shadow: 2px 2px 2px rgb(0, 0, 0);
+}
+
+#foot {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+  margin-top: 400px;
 }
 
 /* media query for the small device */
